@@ -27,9 +27,10 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-'''
+```
 End points in the app:
-'''
+```
+
 `register`: to implement user registration
 `pokemon`: to fetch data from Pokemon API
 `table`: to get static data in the form of table
