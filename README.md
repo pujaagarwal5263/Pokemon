@@ -31,9 +31,9 @@ Your app is ready to be deployed!
 End points in the app:
 ```
 
-`register`: to implement user registration
-`pokemon`: to fetch data from Pokemon API
-`table`: to get static data in the form of table
-`count`: to count number of times a button clicked.
+`register`: to implement user registration \
+`pokemon`: to fetch data from Pokemon API \
+`table`: to get static data in the form of table \
+`count`: to count number of times a button clicked \
 
 <strong>This project is made just for learning purpose.</strong>
